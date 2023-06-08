@@ -1,0 +1,1 @@
+-- Output all John Doe's loans payments done before June

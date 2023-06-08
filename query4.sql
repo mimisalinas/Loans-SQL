@@ -1,0 +1,1 @@
+-- Find which customer paid the most in loans
